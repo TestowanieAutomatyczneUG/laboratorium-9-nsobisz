@@ -1,6 +1,6 @@
 from src.Car import Car
 
-class CarImpl():
+class CarImpl:
 
     def __init__(self, car: Car):
         self.car = car
